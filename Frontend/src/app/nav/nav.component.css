@@ -1,0 +1,16 @@
+nav {
+  background-color: #fafafa;
+  width: 100%;
+}
+
+.avan {
+  color: #008585;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.configuracao {
+  background-image: url(../../assets/configuracao.svg);
+  padding: 1.5em;
+  padding-top: 1em;
+}
